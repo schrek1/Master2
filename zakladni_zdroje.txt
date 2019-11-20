@@ -1,0 +1,5 @@
+TECHEMPOWER. Web Framework Benchmarks [online]. 2019 [cit. 2019-11-18]. Dostupné z: https://www.techempower.com/benchmarks
+
+KALININ, Denis. Modern Web Development with Kotlin [online]. Leanpub [cit. 2019-1117]. Dostupné z: https://leanpub.com/modern-web-development-with-kotlin 
+
+RAO K, Raghavendra. Kotlin for Enterprise Applications using Java EE: Develop, test, and troubleshoot enterprise applications and microservices with Kotlin and Java EE. 1. Birmingham, United Kingdom: Packt, 2018. ISBN 9781788997270
